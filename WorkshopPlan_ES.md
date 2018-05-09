@@ -1,7 +1,7 @@
 # FICHA PARA COMPLETAR DATOS DE CÍRCULO DE ESTUDIO
 
 ## TÍTULO CÍRCULO
-Título: Proyectos de ciencia abierta y comunitaria    
+Título: **Ciencia abierta  en**   
 Subtítulo: Diseño participativo de un Monitor Libre de calidad de aire.  
 
 ## PRESENTACIÓN:
@@ -29,38 +29,39 @@ Titulo (hasta 50 caracteres)
 Subtítulo (si corresponde. Hasta 55 caracteres)    
 Contenido (hasta 3 renglones en Arial 11)    
 
-### Encuentro 1: Miércoles 9 de mayo de 2018
+### Encuentro 1: Miércoles 30 de mayo de 2018
 **Título:**¿Qué es la ciencia abierta y comunitaria?.
 **Subtítulo:** Mapeo de proyectos y conocimientos.
 **Contenidos:** Origen de la Ciencia comunitaria. Distintos enfoques sobre las ciencias. El proyecto ETER en el Área de Reconquista. La ética hacker.
 **Responsable:** Julieta A
 
-### Encuentro 2 : Miércoles 23 de mayo de 2018.
+### Encuentro 2 : Miércoles 6 de junio de 2018.
 **Título:** De máquinas libres, datos abiertos y humanos colaborativos.
 **Subtítulo:** Introducción a la Cultura Libre y sus experiencias en el mundo.
 **Contenidos:** Monitores libres, nociones básicas de hardware y software. Open Source y Free Software en los barrios del planeta: utilidades y oportunidades. La app para prevenir inundaciones EST-UNSAM.
 **Responsable:** Vladimir
 
-### Encuentro 3 : Miércoles 6 de junio de 2018.
+### Encuentro 3 : Miércoles 13 de junio de 2018.
 **Título:** Las luchas por liberar los conocimientos.
 **Subtítulo:** Datos, información, comunicación, derechos y poder.
 **Contenidos:** Métodos para buscar, analizar, presentar y utilizar los datos disponibles.
 El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista.
 **Responsable:** Dani
 
-### Encuentro 4 : Miércoles 20 de junio de 2018.
+### Encuentro 4 : Miércoles 28 de junio de 2018.
 **Título:** Juegos y aplicaciones para aprender a poner en práctica la Ciencia Abierta y Comunitaria.
 **Subtítulo:** Aprender jugando y haciendo ciencia.
 **Contenidos:** Introducción a las teorías y prácticas del juego. Lo lúdico y el aprendizaje. El diseño de un juego visto desde adentro.
-**Responsable:** Panda / Julieta Y.
+**Responsable:** Julieta Y.
+**Lugar:** HR'lyeh Hacklab. CABA. 
 
-### Encuentro 5 : Miércoles 4 de julio de 2018.
+### Encuentro 5 : Jueves 4 de julio de 2018.
 **Título:** Medir nuestro ambiente también es cuidarlo.
 **Subtítulo:** Métodos analógicos y digitales al alcance de todxs.
 **Contenidos:** Monitores, sensores y planillas. Experiencias y redes internacionales. La experiencia de UNSAM Sustentable. Cooperativas de recicladores del área de Reconquista.  La republica Ciruja: iconoclasistas. El proyeco Aerocene.  
 **Responsable:** A definir
 
-### Encuentro 6 :  Miércoles 18 de julio de 2018.
+### Encuentro 6 :  Miércoles 11 de julio de 2018.
 **Título:** Manual hackeable para proyectos de ciencia abierta.
 **Subtítulo:** Taller práctico de diseño de un material didáctico.
 **Contenidos:**    
@@ -70,9 +71,9 @@ El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista.
 (Completar Nombre y Apellido, Cargo (estudiante, docente, director, coordinador, integrante, etc.), Carrera: (si corresponde), Institución)
 
 - Organizador 1 (Nombre y Apellido. Cargo. Carrera. Institución):Daniel Daza Prado, Doctorando Antropología Social y Cultural IDAES-UNSAM.
-- Organizador 2 (Nombre y Apellido. Cargo. Carrera. Institución):Julieta Arancio
-- Organizador 3 (Nombre y Apellido. Cargo. Carrera. Institución): David
-- Organizador 4 (Nombre y Apellido. Cargo. Carrera. Institución): Patricia
+- Organizador 2 (Nombre y Apellido. Cargo. Carrera. Institución):Julieta Arancio, Becaria doctoral CONICET-UNQ- CENIT. R'lyeh Hacklab. 
+- Organizador 3 (Nombre y Apellido. Cargo. Carrera. Institución): Juieta Lombardelli, Doctoranda en Artes LIFIA-UNLP
+- Organizador 4 (Nombre y Apellido. Cargo. Carrera. Institución): Vladimir Ávila, Ing. Informático, Universidad de Concepción Chile. R'lyeh Hacklab.
 
 
 ## OBSERVACIONES (en caso de tener que aclarar algo):
